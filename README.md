@@ -56,4 +56,4 @@ Mode types must be one of: mean, median, mode (case-insensitive).
 This service uses Python 3.10+ for match-case. 
 
 
-![UML Sequence Diagram] (/UML_Sequence_Diagram.png)
+![UML Sequence Diagram] (UML Sequence Diagram.png)
