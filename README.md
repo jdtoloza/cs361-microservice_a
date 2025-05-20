@@ -8,9 +8,13 @@ This microservice accepts a list of numbers and a mode type (`mean`, `median`, o
 
 Make a **POST** request to the following endpoint: POST http://localhost:3000/calculate
 -- Headers --
+<pre>
+{
 Content-Type: application/json
+}
+</pre>
 
--- Body --
+JSON POST Payload/Body Example:
 <pre>
 {
   "numbers": [1, 2, 2, 3, 4],
