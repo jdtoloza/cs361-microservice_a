@@ -23,12 +23,12 @@ JSON Response Example:
   "result": 2
 }
 
-Error Response Example:
-{
-  "numbers": [1, 2, 3],
-  "mode": "average",
-  "error": "Invalid mode type. Please use mean, median, or mode."
-}
+Error Response Example: \n
+{ \n
+  "numbers": [1, 2, 3], \n
+  "mode": "average", \n
+  "error": "Invalid mode type. Please use mean, median, or mode." \n
+} \n
 
 ## Mitigation Plan ##
 Who is this microservice for?
