@@ -56,4 +56,4 @@ Mode types must be one of: mean, median, mode (case-insensitive).
 This service uses Python 3.10+ for match-case. 
 
 
-![UML Sequence Diagram] (https://lucid.app/lucidchart/50630c04-0e2f-495a-9bd8-57d1d707fc25/edit?viewport_loc=921%2C541%2C2217%2C1031%2C0_0&invitationId=inv_7d2ca0b7-d061-45b0-8e12-96151b3eee0a)
+![UML Sequence Diagram] (/UML_Sequence_Diagram.png)
