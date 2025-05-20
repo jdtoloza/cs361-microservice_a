@@ -17,11 +17,13 @@ Content-Type: application/json
 }
 
 JSON Response Example:
+<pre>  
 {
   "numbers": [1, 2, 2, 3, 4],
   "mode": "mode",
   "result": 2
 }
+</pre>
 
 Error Response Example: 
 <pre>
