@@ -25,13 +25,13 @@ JSON Response Example:
 
 Error Response Example: 
 <pre> 
-  ```json
+
 { 
   "numbers": [1, 2, 3], 
   "mode": "average", 
   "error": "Invalid mode type. Please use mean, median, or mode." 
 } 
-```
+
 </pre>
 
 ## Mitigation Plan ##
