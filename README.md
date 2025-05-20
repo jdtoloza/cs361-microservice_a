@@ -11,13 +11,15 @@ Make a **POST** request to the following endpoint: POST http://localhost:3000/ca
 Content-Type: application/json
 
 -- Body --
+<pre>
 {
   "numbers": [1, 2, 2, 3, 4],
   "mode": "mode"
 }
+</pre>
 
 JSON Response Example:
-<pre>  
+<pre>
 {
   "numbers": [1, 2, 2, 3, 4],
   "mode": "mode",
