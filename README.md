@@ -14,7 +14,7 @@ Content-Type: application/json
 }
 </pre>
 
-JSON POST Payload/Body Example:
+JSON Payload Example:
 <pre>
 {
   "numbers": [1, 2, 2, 3, 4],
